@@ -1,2 +1,5 @@
-# Employee-Management-System
-Employee-Management-System for array operations
+# Employee-Management-System-Array-Merhods
+Employee-Management-System for array methods
+
+## Site URL
+https://employee-mgt-system.netlify.app/
